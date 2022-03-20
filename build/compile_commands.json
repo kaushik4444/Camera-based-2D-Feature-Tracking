@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/kaushik/SFND_2D_Feature_Tracking/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7   -isystem /usr/local/include/opencv4  -g   -std=c++11 -std=gnu++11 -o CMakeFiles/2D_feature_tracking.dir/src/matching2D_Student.cpp.o -c /home/kaushik/SFND_2D_Feature_Tracking/src/matching2D_Student.cpp",
+  "file": "/home/kaushik/SFND_2D_Feature_Tracking/src/matching2D_Student.cpp"
+},
+{
+  "directory": "/home/kaushik/SFND_2D_Feature_Tracking/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7   -isystem /usr/local/include/opencv4  -g   -std=c++11 -std=gnu++11 -o CMakeFiles/2D_feature_tracking.dir/src/MidTermProject_Camera_Student.cpp.o -c /home/kaushik/SFND_2D_Feature_Tracking/src/MidTermProject_Camera_Student.cpp",
+  "file": "/home/kaushik/SFND_2D_Feature_Tracking/src/MidTermProject_Camera_Student.cpp"
+}
+]
